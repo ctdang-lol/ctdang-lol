@@ -24,7 +24,7 @@
 </p>
 
 ### 🌍 Connect with Me
-- 📫 Reach me via **[Your Email Address](mailto:ctdang@lolconsultants.com)**
+- 📫 Reach me via **[ctdang@lolcolsuntants.com](mailto:ctdang@lolconsultants.com)**
 - 🔗 Connect on **[LinkedIn](https://www.linkedin.com)**
 
 ### ⚡ Fun Fact
