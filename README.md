@@ -5,7 +5,7 @@ I'm a passionate developer diving deep into the worlds of ReactJS, Flutter, Node
 - 👀 **Interests:** Building interactive and responsive web and mobile apps, expanding my skill set with new tech, and learning about scalable backend architectures.
 - 🌱 **Currently Learning:** Amazon AWS for cloud solutions and DevOps.
 - 💞️ **Looking to Collaborate On:** Projects in ReactJS, Flutter, or NodeJS, especially those that are open-source or with a focus on cross-platform solutions.
-- 📫 **How to Reach Me:** [Your preferred contact, e.g., LinkedIn, email, etc.]
+- 📫 **How to Reach Me:** ctdang@lolconsultants.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I can explain JavaScript async/await over a cup of coffee...or two!
 
