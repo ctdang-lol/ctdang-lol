@@ -28,7 +28,7 @@
 - 🔗 Connect on **[LinkedIn](https://www.linkedin.com)**
 
 ### ⚡ Fun Fact
-- 🎸 Besides coding, I'm a [fun fact or hobby here, e.g., "..."]!
+- 🎸 Besides coding, I'm also debuging!
 
 ---
 
